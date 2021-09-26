@@ -34,9 +34,9 @@ Also learned Crystallography and Mathematics behind it.
   
 ## Optimizations
 
-- Speed up many time consuming algorithms `Just-In-Time (JIT)` compiler offered by NUMBA was used
+- Speed up many time consuming algorithms `Just-In-Time (JIT)` compiler offered by [NUMBA](http://numba.pydata.org/) was used
 
-- Also GPU programming with `CUDA` package in NUMBA using Python to improve faster execution of algorithms in large image data sets.
+- Also GPU programming with [CUDA](https://numba.readthedocs.io/en/stable/cuda/index.html) package in NUMBA using Python to improve faster execution of algorithms in large image data sets.
 
 
 
@@ -79,12 +79,8 @@ plt.imshow(image)
   
 ## Acknowledgements
 
- - [Dr. Anish Kumar](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Dr. Anish Kumar](https://sites.google.com/site/vanianish/)
  
-  
-## Support
-
-For support, email harini.jt@gmail.com.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/harini-ht)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-t-55b2821bb)
