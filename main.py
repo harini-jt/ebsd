@@ -9,7 +9,7 @@ from ebsd.gui.windows import CustomDialogFilter, KamWindow, PFSelect, SettingsWi
 from ebsd import *
 # PyQt5 imports
 import sys
-from PyQt5 import QtCore
+from PyQt5 import QtCore, QtGui
 from PyQt5.QtCore import QFileInfo, QSettings
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import QIcon, QKeySequence
