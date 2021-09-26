@@ -5,7 +5,7 @@ software developed using PyQt5, for EBSD Analysis.
 
 This software is developed for Scientific Purpose.
 
-EBSD package developed with utility functions for each process.
+EBSD package developed with utility functions for each process of ebsd such as grain segmentation and generating kernel average misorientaion, dislocation density, grain reference reference orientation deviation, inverse pole figure, pole figure maps.
 
 
 
@@ -25,7 +25,7 @@ EBSD package developed with utility functions for each process.
 
 I learned to device various algorithms 
 for solving problems in generating EBSD maps 
-along side learning to work witn a completely
+along side learning to work with a completely
 new platform, PyQt5 from scratch.
 
 Also learned Crystallography and Mathematics behind it.
@@ -80,6 +80,7 @@ plt.imshow(image)
 ## Acknowledgements
 
  - [Dr. Anish Kumar](https://sites.google.com/site/vanianish/)
+ - Dr. Vani Shankar
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/harini-ht)
