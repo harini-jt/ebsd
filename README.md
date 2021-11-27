@@ -14,7 +14,7 @@ EBSD package developed with utility functions for each process of ebsd such as g
 - Various Segmentation Methods(KAM Based, Watershed)
 - Interactive Grain Selection plots
 - Inverse Pole Figure and Pole Figure Maps
-- Grain Reference Orientaion Deviation, Dislocation Density
+- Grain Reference Orientation Deviation, Dislocation Density
 - Exportable csv file for Grain Details 
 
 
@@ -81,7 +81,11 @@ plt.imshow(image)
   
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/74011816/134781158-9de4ccaf-3e16-4e39-9958-8254e8598a44.png)
+![App Screenshot1](https://user-images.githubusercontent.com/74011816/134781158-9de4ccaf-3e16-4e39-9958-8254e8598a44.png)
+### Toolbar
+![image2](https://user-images.githubusercontent.com/74011816/143666127-91eb124c-ce86-4c3b-aad4-0f7048a2dae5.png)
+![image3](https://user-images.githubusercontent.com/74011816/143666146-c6774d96-8e56-47bd-bed7-003e174a1925.png)
+![image4](https://user-images.githubusercontent.com/74011816/143666368-d20678ef-0aab-4d40-8631-90e8dcf44faf.png)
 
   
 ## Acknowledgements
